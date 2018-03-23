@@ -1,4 +1,3 @@
-# vkcms
 
 > A Vue.js project
 
